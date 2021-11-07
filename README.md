@@ -11,7 +11,7 @@ For A(r3) = 11, B(r4) = 8, N = 14(r2)
 Expected result C ( r1 ) = 11 x 8 = 88 mod ( 14 ) = 18
 
 **Simulation result:**
-![image](https://user-images.githubusercontent.com/42515502/140646658-6873e21e-792d-418a-b0cb-2d3a825b2571.png)
+![image](https://user-images.githubusercontent.com/42515502/140647778-8e3e8b56-253d-4584-96a6-9cdcef15f6bf.png)
 
 
 # Speed
